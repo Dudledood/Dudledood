@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dudledood
 - 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning this fxking github
+- 🌱 I’m currently learning this Lovely GitHub
 - 💞️ I’m looking to collaborate on my dream team
-- 📫 How to reach me : give me your mind
+- 📫 How to reach me : It's quite hard to do that.
 
 <!---
 Dudledood/Dudledood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
