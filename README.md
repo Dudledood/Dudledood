@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dudledood
-- 👀 I’m interested in mucha tea
+- 👀 I’m interested in Data Engineer
 - 🌱 I’m currently learning this fxking github
 - 💞️ I’m looking to collaborate on my dream team
 - 📫 How to reach me : give me your mind
